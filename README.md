@@ -1,5 +1,5 @@
 ## Hi there 👋
-**This is Shengliang Cai (a.k.a cubercsl), a postgraduate from [C.S. East China Normal University](http://www.cs.ecnu.edu.cn/)**.
+**This is Cai Shengliang (a.k.a cubercsl), a postgraduate from [C.S. East China Normal University](http://www.cs.ecnu.edu.cn/)**.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=2014CAIS01&show_icons=true&include_all_commits=true&theme=solarized-dark)
